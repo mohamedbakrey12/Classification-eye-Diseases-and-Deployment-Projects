@@ -1,6 +1,6 @@
 # Classification-eye-Diseases  
 # Introduction
-![image](https://user-images.githubusercontent.com/66233001/213205454-2974640a-c2f0-413a-9fad-a1eb91953e8c.png)
+![image](https://user-images.githubusercontent.com/66233001/213298206-c75360d1-aa68-4556-a1a5-755634dfceee.png)
 
 In this project, work has been done to create an application that works with artificial intelligence and deep learning,
 as this application is based largely on neural network algorithms and reinforcement learning algorithms.
