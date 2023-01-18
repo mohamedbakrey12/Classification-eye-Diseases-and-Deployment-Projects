@@ -70,6 +70,8 @@ retinal images where each class have approximately 1000 images. These images are
  
 ##### That is the sample of prediction of the model.
  ![image](https://user-images.githubusercontent.com/66233001/213205055-41961956-252a-495c-a847-34b710808b21.png)
+ The Result: 
+ ![image](https://user-images.githubusercontent.com/66233001/213207453-c8a40407-9758-436d-b872-a4d0c84ee952.png)
 
  ## Tools.
  we use on the Project:
