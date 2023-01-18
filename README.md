@@ -1,5 +1,7 @@
-# Classification-eye-Diseases
+# Classification-eye-Diseases  
 # Introduction
+![image](https://user-images.githubusercontent.com/66233001/213205454-2974640a-c2f0-413a-9fad-a1eb91953e8c.png)
+
 In this project, work has been done to create an application that works with artificial intelligence and deep learning,
 as this application is based largely on neural network algorithms and reinforcement learning algorithms.
 
@@ -63,6 +65,22 @@ retinal images where each class have approximately 1000 images. These images are
 
 # Methodology
 
+ In this work, one of the most famous and best reinforcement learning algorithms, `DensNet121`, 
+ was applied to our data and very good results were obtained.
  
- 
+##### That is the sample of prediction of the model.
+ ![image](https://user-images.githubusercontent.com/66233001/213205055-41961956-252a-495c-a847-34b710808b21.png)
 
+ ## Tools.
+ we use on the Project:
+ 1. Pythos as Language
+ 2. TensorFlow
+ 3. keras
+ 4. Flask as Framework for deployment.
+ 5. HTML
+ 6. BootStrap
+ 7. Css
+ 
+# Conclusion
+In this project, work has been done to create an application that classifies and detects eye disease, 
+as this application works on reinforcement learning based on the convolutional neural network. The application gave very good results.
